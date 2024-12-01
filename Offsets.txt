@@ -1,4 +1,4 @@
-PATCH_LIB("libanogs.so", "0x14E638", "00 00 80 D2 C0 03 5F D6");  
-PATCH_LIB("libanogs.so", "0x1749A8", "00 00 80 D2 C0 03 5F D6");  
-PATCH_LIB("libanogs.so", "0x1CFB28", "00 00 80 D2 C0 03 5F D6");  
-PATCH_LIB("libanogs.so", "0x396228", "00 00 80 D2 C0 03 5F D6"); 
+PATCH_LIB("libanogs.so", "0xE0970", "00 00 80 D2 C0 03 5F D6");   
+PATCH_LIB("libanogs.so", "0x14F700", "00 00 80 D2 C0 03 5F D6");   
+PATCH_LIB("libanogs.so", "0x22F4F0", "00 00 80 D2 C0 03 5F D6");   
+PATCH_LIB("libanogs.so", "0x23DC00", "00 00 80 D2 C0 03 5F D6");  
